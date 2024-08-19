@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="jars">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Documents/lwjgl2/lib/jars" />
+      <root url="file://$USER_HOME$/Documents/slick-util/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://$USER_HOME$/Documents/lwjgl2/lib/natives/windows" />
+    </NATIVE>
+    <SOURCES>
+      <root url="file://$USER_HOME$/Documents/slick-util/lib" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Documents/lwjgl2/lib/jars" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Documents/slick-util/lib" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Documents/slick-util/lib" recursive="false" type="SOURCES" />
+  </library>
+</component>
